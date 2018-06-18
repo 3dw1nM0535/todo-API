@@ -1,0 +1,8 @@
+# Avoid Git tracking these files
+
+node_modules
+build
+coverage
+dist
+DS_Store*
+npm-debug*.log
